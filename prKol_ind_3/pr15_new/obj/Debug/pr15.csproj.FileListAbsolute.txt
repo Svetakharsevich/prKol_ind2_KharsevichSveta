@@ -1,0 +1,21 @@
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\bin\Debug\pr15.exe.config
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\bin\Debug\pr15.exe
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\bin\Debug\pr15.pdb
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.Form1.resources
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.Properties.Resources.resources
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.csproj.GenerateResource.cache
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.exe
+C:\Users\305-1\Desktop\Рабочий стол\ПР-21 Харсевич\pr15\obj\Debug\pr15.pdb
+E:\Алгоритмизация\pr15\obj\Debug\pr15.csproj.AssemblyReference.cache
+E:\Алгоритмизация\pr15\obj\Debug\pr15.csproj.SuggestedBindingRedirects.cache
+E:\Алгоритмизация\pr15\obj\Debug\pr15.Form1.resources
+E:\Алгоритмизация\pr15\obj\Debug\pr15.Properties.Resources.resources
+E:\Алгоритмизация\pr15\obj\Debug\pr15.csproj.GenerateResource.cache
+E:\Алгоритмизация\pr15\obj\Debug\pr15.csproj.CoreCompileInputs.cache
+E:\Алгоритмизация\pr15\bin\Debug\pr15.exe.config
+E:\Алгоритмизация\pr15\bin\Debug\pr15.exe
+E:\Алгоритмизация\pr15\bin\Debug\pr15.pdb
+E:\Алгоритмизация\pr15\obj\Debug\pr15.exe
+E:\Алгоритмизация\pr15\obj\Debug\pr15.pdb
